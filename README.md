@@ -6,7 +6,7 @@ This data analysis project aims to provide insights into the sales performance o
 
 ## TOOLS
 
--Excel.
+- Excel.
 
 ## DATA SOURCE
 
