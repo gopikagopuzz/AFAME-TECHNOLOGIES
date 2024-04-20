@@ -25,6 +25,7 @@ DATA:The primary data set used for this analysis is the "ECOMM DATA.xlsx" file,c
 - LATAM market has the largest return of 297 items follows APAC and United States by 296 items counted.
 - on conclusion over the time period, the sales exhibits an overall increasing trend with sales increase in the month of december.
 
-![Screenshot 2024-04-20 212358](https://github.com/gopikagopuzz/AFAME-TECHNOLOGIES/assets/167605193/e1ff083c-6162-43cb-a912-89d70c6f9579)
+![Screenshot 2024-04-20 213504](https://github.com/gopikagopuzz/AFAME-TECHNOLOGIES/assets/167605193/363dc1ab-6a7b-41e0-8d30-e2cb1fc56837)
+
 
 ![Screenshot 2024-04-20 212450](https://github.com/gopikagopuzz/AFAME-TECHNOLOGIES/assets/167605193/e1b065dd-ee98-4f76-b43f-58f9ed4ed9e0)
