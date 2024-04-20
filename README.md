@@ -13,7 +13,7 @@ This data analysis project aims to provide insights into the sales performance o
 DATA:The primary data set used for this analysis is the "ECOMM DATA.xlsx" file,containing detailed information about the sales.
 
 ## KEY FINDINGS
--I determined total sales to be 12.643 millions.
+- I determined total sales to be 12.643 millions.
 - the total profit of various product is about 1.4675 millions.
 - Apple Smart Phone,Full Size is the product that has the largest sale of abiut 0.08694 millions followed Cisco Smart Phone,Full Size and Motorola Smart Phone,Full Size.
 - Neywork city has the largest sale amoung various city
